@@ -1,0 +1,11 @@
+[ui]
+username = Aaron Sumner <asumner@oreilly.com>
+
+[extensions]
+color =
+purge =
+pager =
+
+[alias]
+show = log --color=always -pr
+blame = annotate --user --number --line
